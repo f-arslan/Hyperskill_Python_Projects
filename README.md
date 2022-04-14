@@ -1,6 +1,5 @@
 # Python Projects
 
-<!-- Create a p with orange color-->
 <p>
     1. Logistic Regression<br>
     2. MultiLinear Regression <br>
