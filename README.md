@@ -1,15 +1,23 @@
 # Python Projects
 
-1. Text Generator
-2. Memorization Tool 
-3. Knight's Tour Puzzle
-4. To-do List
-5. University Admission Procedure
-6. Simple Banking System
-7. Bill Splitter
-8. Currency Converter
-9. Duplicate File Handler
-10. Numeric Matrix Processor
-11. Rock-Paper-Scissors
-12. Food Blog Backend
-13. Convoy Shipping Company
+<!-- Create a p with orange color-->
+<p style="color: orange">
+    1. Logistic Regression<br>
+    2. MultiLinear Regression
+</p>
+<p>
+3. Text Generator <br>
+4. Memorization Tool <br>
+5. Knight's Tour Puzzle <br>
+6. To-do List <br>
+7. University Admission Procedure <br>
+8. Simple Banking System <br>
+9. Bill Splitter <br>
+10. Currency Converter <br>
+11. Duplicate File Handler <br>
+12. Numeric Matrix Processor <br>
+13. Rock-Paper-Scissors <br>
+14. Food Blog Backend <br>
+15. Convoy Shipping Company <br>
+16. Coffee Machine <br>
+</p>
